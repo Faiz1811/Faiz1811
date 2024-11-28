@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faiz1811
 - ✨Mobile Development (Flutter, Java, C++)
 - ✨Web Development (HTML, CSS, Javascript)
-- ✨Databases (Mysql, Sqlite, Hive)
+- ✨Databases (Mysql, Sqlite, Hive, firebase)
 
 
 <!---
